@@ -1,0 +1,4 @@
+digraph {
+node [shape="plaintext"]
+1 -> 2 [style="bold" color="blue"]
+}
